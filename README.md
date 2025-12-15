@@ -1,4 +1,4 @@
-<img width="1525" height="839" alt="截屏2025-12-15 10 54 55" src="https://github.com/user-attachments/assets/ee854357-9411-4c39-a07e-b1a9a3cbba16" /># NG-MVLVM: Next-Gen Multi-View Latent Variable Model
+ NG-MVLVM: Next-Gen Multi-View Latent Variable Model
 
 This repository contains the implementation of **NG-MVLVM** (Next-Gen Multi-View Latent Variable Model) as described in the paper "Multi-View Oriented GPLVM: Expressiveness and Efficiency".
 
