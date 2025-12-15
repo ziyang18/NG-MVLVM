@@ -1,4 +1,4 @@
-# NG-MVLVM: Next-Gen Multi-View Latent Variable Model
+<img width="1525" height="839" alt="截屏2025-12-15 10 54 55" src="https://github.com/user-attachments/assets/ee854357-9411-4c39-a07e-b1a9a3cbba16" /># NG-MVLVM: Next-Gen Multi-View Latent Variable Model
 
 This repository contains the implementation of **NG-MVLVM** (Next-Gen Multi-View Latent Variable Model) as described in the paper "Multi-View Oriented GPLVM: Expressiveness and Efficiency".
 
@@ -41,11 +41,11 @@ The demo will:
 If you use this code, please cite:
 
 ```bibtex
-@article{ng-mvlvm2025,
-  title={Multi-View Oriented GPLVM: Expressiveness and Efficiency},
-  author={Yang, Zi and Lin, Zhidi and Li, Ying and Zhang, Michael Minyi and Olmos, Pablo M.},
-  journal={Advances in Neural Information Processing Systems},
-  year={2025}
+@inproceedings{yang2025multi,
+  title     = {Multi-View Oriented {GPLVM}: Expressiveness and Efficiency},
+  author    = {Yang, Zi and Li, Ying and Lin, Zhidi and Zhang, Michael Minyi and Olmos, Pablo M.},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2025}
 }
 ```
 
