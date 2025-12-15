@@ -1,5 +1,3 @@
- NG-MVLVM: Next-Gen Multi-View Latent Variable Model
-
 This repository contains the implementation of **NG-MVLVM** (Next-Gen Multi-View Latent Variable Model) as described in the paper "Multi-View Oriented GPLVM: Expressiveness and Efficiency".
 
 ## Overview
@@ -48,10 +46,3 @@ If you use this code, please cite:
   year      = {2025}
 }
 ```
-
-
-## 🔗 References
-
-- Paper: Multi-View Oriented GPLVM: Expressiveness and Efficiency
-- The NG-SM kernel is based on modeling spectral density with bivariate Gaussian mixtures
-- Random Fourier features enable scalable variational inference
